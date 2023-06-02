@@ -13,7 +13,7 @@
   </h2>
 </div>
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="550" height="400"/>
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400" height="300"/>
 </div>
 
 ---
